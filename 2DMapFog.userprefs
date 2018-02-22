@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{C46C38EB-466F-6D0A-F760-D72C7F76FD17}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/FogKit/FogKit.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MapFogCtrl.cs" Line="101" Column="2" />
+      <File FileName="Assets/Demo/Scripts/MainTest.cs" Line="51" Column="13" />
+      <File FileName="Assets/Shader/RightMapFogAsyn.shader" Line="7" Column="10" />
+      <File FileName="Assets/Scripts/FogKit/FogKit.cs" Line="34" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.2DMapFog PreferredExecutionTarget="Unity.Editor" />
+</Properties>

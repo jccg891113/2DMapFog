@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - UICamera
+  - CloudCam
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Sky
+  - changjing
+  - ShipLayer
+  - PlaneLayer
+  - TorpedoLayer
+  - RedBallLayer
+  - EffectLayer
+  - ExploreLayer
+  - MainScenePlayer
+  - UI3DObject
+  - 
+  - 
+  - FleetWarningLayer
+  - 
+  - 
+  - 
+  - 
+  - BattleRenderUI
+  - BattleSearchUI
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Scene
+    uniqueID: 2414742323
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Guider
+    uniqueID: 3021270445
+    locked: 0
+  - name: Attention
+    uniqueID: 2664778293
+    locked: 0
+  - name: Network
+    uniqueID: 4129694293
+    locked: 0
+  - name: Platform
+    uniqueID: 3527180805
+    locked: 0
